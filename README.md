@@ -1,4 +1,12 @@
-# Avoid Function in WHERE Clause
+# Portfolio Projects
+
+### 1. 
+
+### 2. SQL for PostgreSQL 
+The project can be seen in [here](https://github.com/imdwipayana/PostgreSQL).
+
+### 3. SQL for DB Browser SQLite
+The project can be seen in this [link](https://github.com/imdwipayana/DB-Browser-for-SQLite).
 
 Create  table:
 ```sql
