@@ -10,8 +10,9 @@ Based on features that available on each type of data, there some interesting to
 1. Predict whether a consument will give tips aor no tips. This can be done through classification prediction.
 2. Predict wheter a consument will give a big tips, normal tips or no tips at all.
 3. Predict anomaly of customers who give a big tips.
-4. Predict the amont cost of service from customer. This can be done with regression.
-5. Forecasting of customer throught daily dataset with time series data analysis.
+4. Try to do clustering.
+5. Predict the amont cost of service from customer. This can be done with regression.
+6. Forecasting of customer throught daily dataset with time series data analysis.
 
 ## 1. Data Manipulation
 Various steps in data manipulations are:
