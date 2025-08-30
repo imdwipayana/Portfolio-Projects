@@ -11,15 +11,8 @@ Based on features that available on each type of data, there some interesting to
 4. Predict the amont cost of service from customer. This can be done with regression.
 5. Forecasting of customer throught daily dataset with time series data analysis.
 
+# 1. Data Manipulation
+Various step in data manipulations are:
 
-
-## I. SQL Introduction
-
-### 1. [SELECT](https://github.com/imdwipayana/DB-Browser-for-SQLite/tree/main/SQL%20Introduction/SELECT)
-### 2. [WHERE](https://github.com/imdwipayana/DB-Browser-for-SQLite/tree/main/SQL%20Introduction/WHERE)
-### 3. [GROUP BY](https://github.com/imdwipayana/DB-Browser-for-SQLite/tree/main/SQL%20Introduction/GROUP%20BY)
-### 4. [HAVING](https://github.com/imdwipayana/DB-Browser-for-SQLite/tree/main/SQL%20Introduction/HAVING)
-### 5. [ORDER BY](https://github.com/imdwipayana/DB-Browser-for-SQLite/tree/main/SQL%20Introduction/ORDER%20BY)
-### 6. [JOIN](https://github.com/imdwipayana/DB-Browser-for-SQLite/tree/main/SQL%20Introduction/JOIN)
-### 7. [AGGREGATE FUNCTIONS](https://github.com/imdwipayana/DB-Browser-for-SQLite/tree/main/SQL%20Introduction/AGGREGATE%20FUNCTIONS)
-
+1. Convert data New York Yellow Taxi in 2019, where the previous format is in csv to parquet file type. This step follows the Polars code in [here](https://github.com/imdwipayana/Portfolio-Projects/blob/main/67%20GB%20Full%20Data%20Analysis/Convert_csv_2019_to_parquet.ipynb).
+2. fafd
