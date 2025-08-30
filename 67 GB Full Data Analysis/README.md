@@ -37,3 +37,11 @@ Various steps in data manipulations are:
 6. Deleting data that less meaningful such as negative distance and distance that more than 50 miles (there are some taxis serve more than 100000 miles). Here, it is assumed that the maximum service distance is 50 miles.
 7. Deleting data that has negative distance, negative tips amount and negative cost of trip.
 8. Deleting data which serive is more than 24 hours (counted from the difference of drop off and pick up time).
+
+Considering the size of data, there will be step by step analysis from a chunk of dataset to find the pattern about how to analyze the dataset appropriately. Here is the step on analyzing the dataset:
+1. Try one month of data on January 2009 from Ney York Yellow Taxi. The Python analysis can be fount here.
+2. Add more monthly dataset until all data in 2009 are included.
+3. Then add all year of New York Yellow Taxi dataset from 2009 until 20023.
+4. Then add dataset from different taxi such as Green Taxi and High Volume for Hire Taxi.
+
+
