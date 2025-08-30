@@ -34,7 +34,6 @@ Various steps in data manipulations are:
    g. Cost of trip
    
 4. Transform the format of data type pick up dan drop off columns from string to date time format.
-5. S
 6. Deleting data that less meaningful such as negative distance and distance that more than 50 miles (there are some taxis serve more than 100000 miles). Here, it is assumed that the maximum service distance is 50 miles.
 7. Deleting data that has negative distance, negative tips amount and negative cost of trip.
 8. Deleting data which serive is more than 24 hours (counted from the difference of drop off and pick up time).
