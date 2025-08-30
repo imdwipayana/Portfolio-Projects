@@ -1,4 +1,10 @@
-In this project, New York Taxi dataset will be analyzed through data manipulation, transformation, cleaning, feature selection and data processing with multiple tools in SQL and Python. The source of dataset is Kaggle and the dataset can be found [here](https://www.kaggle.com/datasets/microize/nyc-taxi-dataset).
+In this project, New York Taxi dataset will be analyzed through data manipulation, transformation, cleaning, feature selection and data processing with multiple tools in SQL and Python. The source of dataset is Kaggle and the dataset can be found [here](https://www.kaggle.com/datasets/microize/nyc-taxi-dataset). Dataset range from 2019 until 2019 with daily trips ducumentations from 4 different type of taxis, which are:
+1. Yellow taxi
+2. Green taxi
+3. For Hire Vehicle
+4. High volume for Hire Vehicle
+
+
 
 ## I. SQL Introduction
 
