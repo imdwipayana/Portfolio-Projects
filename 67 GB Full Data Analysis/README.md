@@ -12,7 +12,7 @@ Based on features that available on each type of data, there some interesting to
 5. Forecasting of customer throught daily dataset with time series data analysis.
 
 # 1. Data Manipulation
-Various step in data manipulations are:
+Various steps in data manipulations are:
 
 1. Convert data New York Yellow Taxi in 2019, where the previous format is in csv to parquet file type. This step follows the Polars code in [here](https://github.com/imdwipayana/Portfolio-Projects/blob/main/67%20GB%20Full%20Data%20Analysis/Convert_csv_2019_to_parquet.ipynb).
 2. fafd
