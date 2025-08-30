@@ -18,12 +18,14 @@ Various steps in data manipulations are:
 
 1. Convert data New York Yellow Taxi in 2019, where the previous format is in csv to parquet file type. This step follows the Polars code in [here](https://github.com/imdwipayana/Portfolio-Projects/blob/main/67%20GB%20Full%20Data%20Analysis/Convert_csv_2019_to_parquet.ipynb).
 2. Select feature data that avalilable in all of the monthly file data. Here data from For Hire Vehicle match only 2 features to other type of taxis. For that reason, data from this taxi is not included in the analysis. From around 15 features, the selected features that matching with other taxi types are:
+   
    a. Pick up time.
    b. Drop off time
    c. Number of passengers
    d. Distance
-   e. Tips amount
-   f. Cost of trip
+   e. Payment type
+   f. Tips amount
+   g. Cost of trip
    
 4. Transform the format of data type pick up dan drop off columns from string to date time format.
 5. S
