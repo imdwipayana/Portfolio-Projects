@@ -1,3 +1,5 @@
+# The 67GB Data Analysis
+
 In this project, New York Taxi dataset will be analyzed through data manipulation, transformation, cleaning, feature selection and data processing with multiple tools in SQL and Python. The source of dataset is Kaggle and the dataset can be found [here](https://www.kaggle.com/datasets/microize/nyc-taxi-dataset). Dataset range from 2019 until 2019 with daily trips ducumentations from 4 different type of taxis, which are:
 1. Yellow taxi. Data range from January 2009 until September 2023.
 2. Green taxi. Data range from January 2014 until September 2023.
