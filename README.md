@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-### 1. [The 67GB Data Analysis](https://github.com/imdwipayana/Portfolio-Projects/tree/main/67%20GB%20Full%20Data%20Analysis)
+### 1. [New York Taxi: The 67GB Data Analysis](https://github.com/imdwipayana/Portfolio-Projects/tree/main/67%20GB%20Full%20Data%20Analysis)
 Data analysis with big data from [Kaggle](https://www.kaggle.com/datasets/microize/nyc-taxi-dataset). With RAM 16GB, it needs strategy to analyze the data properly such as using the appropriate method and tools since all data can not be put at once into memory. This project is the practice for strategical data analysis with pipeline and data streaming strategy. Tools that use are Polars, DuckDB and PySpark and Pytorch. Problems that will be solved are classification, clustering and time series data analysis. Those will combine Pyhton and SQL skills with Tableau and Power BI as data visualization tools.
 
 ### 2. [AI Chatbot using Transformer](https://github.com/imdwipayana/Portfolio-Projects/blob/main/AI%20Chatbot%20using%20LLM/AIChatbot%20with%20Transformer.ipynb)
