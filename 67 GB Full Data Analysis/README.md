@@ -44,5 +44,6 @@ Considering the size of data, there will be step by step analysis from a chunk o
 2. Add more monthly dataset until all data in 2009 are included.
 3. Then add all year of New York Yellow Taxi dataset from 2009 until 20023.
 4. Then add dataset from different taxi such as Green Taxi and High Volume for Hire Taxi.
+5. Transformation to Time Series data can be found [here](https://github.com/imdwipayana/Portfolio-Projects/blob/main/67%20GB%20Full%20Data%20Analysis/new_york_taxi_time_series.ipynb)
 
 
