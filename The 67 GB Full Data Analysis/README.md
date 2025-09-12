@@ -45,6 +45,7 @@ Considering the size of data, there will be step by step analysis from a chunk o
 3. Then add all year of New York Yellow Taxi dataset from 2009 until 20023.
 4. Then add dataset from different taxi such as Green Taxi and High Volume for Hire Taxi. The data manipulation can be found in [here](https://github.com/imdwipayana/Portfolio-Projects/blob/main/67%20GB%20Full%20Data%20Analysis/Data%20Manipulation%20New%20York%20Taxi%20Tip%20Prediction.ipynb)
 5. Data transformation for regression can be found in [here](https://github.com/imdwipayana/Portfolio-Projects/blob/main/The%2067%20GB%20Full%20Data%20Analysis/Data%20Manipulation%20for%20Regression.ipynb)
-6. Transformation to Time Series data can be found [here](https://github.com/imdwipayana/Portfolio-Projects/blob/main/67%20GB%20Full%20Data%20Analysis/new_york_taxi_time_series.ipynb)
+6. Data transformation for clustering is the same with data manipulation for [regression](https://github.com/imdwipayana/Portfolio-Projects/blob/main/The%2067%20GB%20Full%20Data%20Analysis/Data%20Manipulation%20for%20Regression.ipynb)
+7. Transformation to Time Series data can be found [here](https://github.com/imdwipayana/Portfolio-Projects/blob/main/67%20GB%20Full%20Data%20Analysis/new_york_taxi_time_series.ipynb)
 
 
