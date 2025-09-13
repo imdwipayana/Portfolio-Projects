@@ -9,9 +9,8 @@ There are two challenges in this dataset: the size and imbalance. Batching is th
 7. Clustering data manipulation
 8. Clustering Yellow and Green taxi data with K means
 9. Clustering High Value for Hire Vehicle with K means
-10. Time Series data manipulation
-11. Time series data analysis for Yellow and Green taxi
-12. Time series data analysis for High Value for Hire Vehicle 
+10. [Time Series data manipulation](https://github.com/imdwipayana/Portfolio-Projects/blob/main/The%2067%20GB%20Full%20Data%20Analysis/new_york_taxi_time_series.ipynb)
+11. Time series data analysis for New York taxi
 
 In this project, New York Taxi dataset will be analyzed through data manipulation, transformation, cleaning, feature selection and data processing with multiple tools in SQL and Python. The source of dataset is Kaggle and the dataset can be found [here](https://www.kaggle.com/datasets/microize/nyc-taxi-dataset). Dataset range from 2019 until 2019 with daily trips ducumentations from 4 different type of taxis, which are:
 1. Yellow taxi. Data range from January 2009 until September 2023.
