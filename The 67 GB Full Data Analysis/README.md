@@ -1,7 +1,7 @@
 # New York Taxi: The 67GB Data Analysis
 There are two challenges in this dataset: the size and imbalance. Batching is the solkution for the first and balancing is for the later. There are multiple projects for this dataset:
 1. [Classification data manipulation](https://github.com/imdwipayana/Portfolio-Projects/blob/main/The%2067%20GB%20Full%20Data%20Analysis/Data%20Manipulation%20New%20York%20Taxi%20Tip%20Prediction.ipynb)
-2. Predict tipping in Yellow and Green taxi by classification
+2. [Predict tipping in Yellow and Green taxi by classification](https://github.com/imdwipayana/Portfolio-Projects/blob/main/The%2067%20GB%20Full%20Data%20Analysis/Batching_Yellow_Green_Taxi_Tipping_Classification.ipynb)
 3. Predict tipping in High Value for Hire Vehicle by classification
 4. [Regression data manipulation](https://github.com/imdwipayana/Portfolio-Projects/blob/main/The%2067%20GB%20Full%20Data%20Analysis/Data%20Manipulation%20for%20Regression.ipynb)
 5. Predict tipping in Yellow and Green taxi by regression
