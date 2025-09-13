@@ -1,4 +1,17 @@
 # New York Taxi: The 67GB Data Analysis
+There are two challenges in this dataset: the size and imbalance. Batching is the solkution for the first and balancing is for the later. There are multiple projects for this dataset:
+1. Classification data manipulation
+2. Predict tipping in Yellow and Green taxi by classification
+3. Predict tipping in High Value for Hire Vehicle by classification
+4. Regression data manipulation
+5. Predict tipping in Yellow and Green taxi by regression
+6. Predict tipping in High Value for Hire Vehicle by regression
+7. Clustering data manipulation
+8. Clustering Yellow and Green taxi data with K means
+9. Clustering High Value for Hire Vehicle with K means
+10. Time Series data manipulation
+11. Time series data analysis for Yellow and Green taxi
+12. Time series data analysis for High Value for Hire Vehicle 
 
 In this project, New York Taxi dataset will be analyzed through data manipulation, transformation, cleaning, feature selection and data processing with multiple tools in SQL and Python. The source of dataset is Kaggle and the dataset can be found [here](https://www.kaggle.com/datasets/microize/nyc-taxi-dataset). Dataset range from 2019 until 2019 with daily trips ducumentations from 4 different type of taxis, which are:
 1. Yellow taxi. Data range from January 2009 until September 2023.
