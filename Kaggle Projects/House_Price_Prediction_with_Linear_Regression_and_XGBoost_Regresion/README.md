@@ -1,6 +1,4 @@
-# Kaggle Projects
+# House Price Prediction with Linear Regression and XGBoost Regresion
 
-Various Kaggle projects are:
-1. [House Price Prediction with Linear Regression and XGBoost Regression] (https://github.com/imdwipayana/Portfolio-Projects/blob/main/Kaggle/House_Price_Prediction_with_Linear_Regression_and_XGBoost_Regresion/House_Price_Prediction_with_Linear_Regression_and_XGBoost.ipynb)
-2. [Coming Soon]()
+Data source for this project comes from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
