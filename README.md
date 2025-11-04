@@ -3,6 +3,9 @@
 ### 1. [New York Taxi: The 67GB Data Analysis](https://github.com/imdwipayana/Portfolio-Projects/tree/main/67%20GB%20Full%20Data%20Analysis)
 Data analysis with big data from [Kaggle](https://www.kaggle.com/datasets/microize/nyc-taxi-dataset). With RAM 16GB, it needs strategy to analyze the data properly such as using the appropriate method and tools since all data can not be put at once into memory. This project is the practice for strategical data analysis with pipeline and data streaming strategy. Tools that use are Polars, DuckDB and PySpark and Pytorch. Problems that will be solved are classification, clustering and time series data analysis. Those will combine Pyhton and SQL skills with Tableau and Power BI as data visualization tools.
 
+### 2. [Book Review Dashboard with Scrapping Dataset](https://github.com/imdwipayana/scrapping_book_review_webpage)
+Explore and analyze book ratings and prices scraped from [Books to Scrape](https://books.toscrape.com/catalogue/page-1.html). This interactive dashboard lets you filter, visualize, and understand pricing trends across book ratings. The complete scraping code and visualization app are included in this [repository](https://github.com/imdwipayana/scrapping_book_review_webpage/blob/main/book_review_scrapping.ipynb)
+
 ### 2. [Kaggle Projects](https://github.com/imdwipayana/Portfolio-Projects/tree/main/Kaggle%20Projects)
 Various project which dataset comes from Kaggle.
 
